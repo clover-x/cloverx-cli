@@ -1,1 +1,1 @@
-# cloverx-cli
+# 🍀cloverx-cli
