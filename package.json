@@ -1,0 +1,19 @@
+{
+  "name": "cloverx-cli",
+  "version": "1.0.0",
+  "description": "cloverx cli tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.souche.com:liujianan/cloverx-cli.git"
+  },
+  "keywords": [
+    "cloverx",
+    "cli"
+  ],
+  "author": "plusmancn@gmail.com",
+  "license": "ISC"
+}
