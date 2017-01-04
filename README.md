@@ -1,5 +1,8 @@
 # 🍀cloverx-cli
+cloverx cli tool
 
-## init
+## command
+### init
 快速创建一个 cloverx  项目
 
+> Lucky!!

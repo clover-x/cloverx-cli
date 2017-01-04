@@ -15,5 +15,10 @@
     "cli"
   ],
   "author": "plusmancn@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "inquirer": "^2.0.0"
+  }
 }
