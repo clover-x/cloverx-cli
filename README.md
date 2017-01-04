@@ -4,7 +4,7 @@ cloverx cli tool
 # Usage
 Install
 ```shell
-npm install git@git.souche.com:liujianan/cloverx-cli.git -g
+npm install cloverx-cli -g
 ```
 Run
 ```shell
